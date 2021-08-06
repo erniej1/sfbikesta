@@ -17,7 +17,7 @@ function runApp() {
     getFillColor: [255, 133, 27],
     getLineColor: [255, 38, 27],
     radiusMinPixels: 5,
-    radiusMaxPixels: 50,
+    radiusMaxPixels: 52,
   };
 
   const scatterplotLayer = new ScatterplotLayer(layerOptions);

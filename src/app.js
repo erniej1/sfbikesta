@@ -6,6 +6,9 @@ const googleMapsAPIKey = 'YOUR API KEY GOES HERE';
 
 loadJSAPI();
 
+
+//Comment here//
+
 function runApp() {
   const map = initMap();
   const layerOptions = {
